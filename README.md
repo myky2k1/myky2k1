@@ -1,6 +1,5 @@
 - 👋 Hi, I’m @myky2k1 - Mihai
 - 👀 I’m interested in Web and PWA development
-- 🌱 I’m currently learning Vue.js and Laravel
 - 💞️ I’m looking to collaborate on freelancing projects
 - 📫 How to reach me contact@maresmihai.ro
 
